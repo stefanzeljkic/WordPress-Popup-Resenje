@@ -70,6 +70,6 @@ If you like this plugin, consider supporting future updates ❤️
 ## 🧑‍💻 Author
 
 **Stefan Zeljkic**  
-📧 stefanzeljkic[at]yahoo.com 
+📧 stefanzeljkic@yahoo.com 
 
 
